@@ -1,0 +1,41 @@
+/*Styelsheet producten*/
+
+* {
+    margin: auto;
+}
+
+body {
+    background-color: whitesmoke;
+    ;
+}
+
+/*producten*/
+.container-productenpg {
+    display: grid;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 80px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 80%;
+    margin-top: 30px;
+
+}
+
+.items-productenpg {
+    height: 100px;
+    width: 100px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding-left: 50px;
+    width: 200px;
+    padding: 60px;
+    margin: 10px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+}

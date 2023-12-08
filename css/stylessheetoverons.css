@@ -1,0 +1,13 @@
+.container-overons {
+    box-sizing: border-box;
+    background-color: palevioletred;
+    display: flex;
+    padding: 50px;
+
+}
+
+.items-verhaal{
+    color: black;
+    font-weight: bolder;
+    font-family: Cinzel, Serif;
+}

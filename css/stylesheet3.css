@@ -1,0 +1,58 @@
+/*stylesheet contact service */
+*{
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+}
+
+img{
+    border-radius: 10px;
+}
+
+/*info*/
+.container-blok1{
+    background-color: rgba(244, 196, 204, 0.373);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: baseline;
+    text-align: left;
+    flex-direction: row;
+    padding: 0;
+    margin: 5px;
+}
+
+.items-blok1{
+    color: black;
+}
+
+/*adres*/
+.container-adres{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:row;
+    background-color:white;
+    padding: 20px;
+}
+
+.items-adres{
+    background-color: whitesmoke;
+}
+
+/*services*/
+.container-services{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    background-color: pink;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.items-services {
+    background-color: #5B2C36;
+    height: 80px;
+    margin:20px;
+}
+
